@@ -1,0 +1,6 @@
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe.config
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.exe
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\bin\Debug\ConsoleApp28.pdb
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.exe
+c:\users\pko\documents\visual studio 2017\Projects\ConsoleApp28\ConsoleApp28\obj\Debug\ConsoleApp28.pdb

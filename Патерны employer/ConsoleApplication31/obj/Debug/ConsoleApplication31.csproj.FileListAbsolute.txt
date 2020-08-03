@@ -1,0 +1,20 @@
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+c:\users\администратор\documents\visual studio 2015\Projects\ConsoleApplication31\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojAssemblyReference.cache
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\obj\Debug\ConsoleApplication31.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+C:\Users\PKO\Desktop\Новая папка (7)\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe.config
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\bin\Debug\ConsoleApplication31.exe
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\bin\Debug\ConsoleApplication31.pdb
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\obj\Debug\ConsoleApplication31.csprojAssemblyReference.cache
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\obj\Debug\ConsoleApplication31.csproj.CoreCompileInputs.cache
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\obj\Debug\ConsoleApplication31.exe
+C:\Users\MAK\Desktop\Новая папка\ConsoleApplication31\obj\Debug\ConsoleApplication31.pdb
